@@ -50,6 +50,14 @@
     border-left-width: 1px;
     outline-width: 1px
   }
+  footer.w-box {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px
+  }
   header.w-box {
     box-sizing: border-box;
     border-top-width: 1px;
@@ -1248,6 +1256,12 @@
   }
   .co7no61:focus-visible {
     background-color: rgba(0, 120, 216, 1)
+  }
+  .c17fuod0 {
+    align-content: space-between
+  }
+  .c1omme4v {
+    box-shadow: 0px 0px rgba(0, 0, 0, 0)
   }
 }
 @media all and (max-width: 991px) {

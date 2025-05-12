@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "dba9d753-ddf9-434f-be13-fdc5fabadb2d";
 
-      export const lastPublished = "2025-05-10T10:41:02.747Z";
+      export const lastPublished = "2025-05-12T09:13:24.902Z";
 
       export const siteName = "たいくんの部屋";
 
@@ -39,6 +39,7 @@ className={`w-body cyr5ovu`}>
 src={"/assets/alex-shuper-easvYe4ixJk-unsplash_Hb9uT95xbDf09nQ4bHu22.webp"}
 width={1920}
 height={1080}
+loading={"eager"}
 className={`w-image ckw650q cu39xf9 c1ysgjff cok98yc`} />
 <Box
 className={`w-box ckw650q cu39xf9 cok98yc c1epj6oz cgzp0rh`} />
@@ -320,16 +321,18 @@ className={`w-box cs8yin5 c16u96pk c1xbi6vq c1uczmal`}>
 <Box
 data-ws-tag="main"
 className={`w-box ckw650q c1vd38xw c8sys7s c1mo0hrg clrs9cu c1m5x6dt chq41zu c1sf0mcw c33qn0z c6epnr1 c1it51w1 c1yz7033 cfprw0w c1lbr12r cn0gl1a`}>
+{(CMS?.data?.data?.post?.featuredImage?.node?.sourceUrl && true || false) &&
 <Image
 src={CMS?.data?.data?.post?.featuredImage?.node?.sourceUrl}
 width={CMS?.data?.data?.post?.featuredImage?.node?.mediaDetails?.width}
 height={CMS?.data?.data?.post?.featuredImage?.node?.mediaDetails?.height}
 alt={CMS?.data?.data?.post?.featuredImage?.node?.altText}
-loading={"lazy"}
+loading={"eager"}
 className={`w-image ckw650q c1m5x6dt chq41zu c1v5myxa c1ysgjff c1q56g4b`} />
+}
 <Heading
 className={`w-heading c227hpe c16uhwia c1y6b4hq c1wsxezy c9ll3mf cyr5ovu cwhi29c c18fmqw2 c1bzr7ct`}>
-{CMS?.data?.data?.post?.title}
+{CMS?.data?.data?.post?.title || "コンテンツが見つかりませんでした（404 Not Found）"}
 </Heading>
 <Box
 className={`w-box c16u96pk c1ayo3bo c227hpe c1y6b4hq c1kdz7t6 c1demw6w cmqkj62 ct6b9qv cbxy17`}>
@@ -346,7 +349,7 @@ language={"ja"}
 country={"JP"}
 dateStyle={"full"}
 timeStyle={"short"}
-datetime={CMS?.data?.data?.post?.date}
+dateTime={CMS?.data?.data?.post?.date}
 className={`w-time cb1oezn c1kmny9s`}>
 {""}
 </Time>
@@ -360,7 +363,7 @@ code={"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><!--!Fo
 className={`w-html-embed`} />
 </Box>
 <Time
-datetime={CMS?.data?.data?.post?.modified}
+dateTime={CMS?.data?.data?.post?.modified}
 language={"ja"}
 country={"JP"}
 dateStyle={"full"}
@@ -369,7 +372,7 @@ className={`w-time cb1oezn c1kmny9s`} />
 </Box>
 </Box>
 <HtmlEmbed
-code={CMS?.data?.data?.post?.content}
+code={CMS?.data?.data?.post?.content || "<p>コンテンツを取得することができませんでした。<br>アクセスしているリンクが正しいことをご確認ください。</p><p>正しいリンクにアクセスしてもこの画面が表示される場合、CMSサーバーが停止しているか、何らかの理由により接続できなかった可能性があります。<br>サービスの状況については、<a href='https://status.taikun.blog/' target='_blank' rel='noreferrer noopener'><b>ステータスページ</b></a>をご覧ください。</p>"}
 className={`w-html-embed c1h3vn5y ct7i05a cgjec4p csl3hbb c1kdz7t6 c3k2a52 cddqap7 c1m0f13q ctozolq c99cs38 c1wcfump c1vwnblz c194y3h5 c45d4o2 cg1xa00 c1rlz18p c7mc26j c1g1j6gz ck8iapd ckbxd2p c1nkms7s c1iqz04d cecbrjb c1d3mp8p c13z6imm cxg1hu1 cy8hjwr c1pvx6bi c9kgyo3 c1viocly c1k7ibuj c1tesiwd c1ay5atg c98dtm4 c1p0jacv c1e3un10 ctlj84m cf35i3d covn89l c5ic6sn cir6ozr c1qu9q82 cia8y9x c1ihgked c17v3h4q c1g6t5sr ceb61fp cht5bl7 c1o7l16m cjkd0l6 c1r65dvd c1lu1lrl c163b2gv c1fmyb5i c14m8m8 c1ofvwbr ceolr4n c1or1wfs cixfxk7 c1rnvafo cie80fl c18ckkr0 ctih64x c2mdtps c1nvpkcr c1k99zqb clfk61k cuwxygi c1dha9f5 c1wfa127 ch0kuje cruoldi cr6byyx clvm7ah cxv9ky3 c1c9mv0h c9ws1rr c13yp1t5 ce221rl c2nt04z c1a5d4le c13nkmlq c1x3b32f c254lsq c859v3j cs91e30 c7p44a3 c9xfmlg c5e2kly c1q602xu c1coe1c6 c1ly99b3 c1jiryuh c1fcwloj cppfr32 c1od68nw c19dxiuo csfxemi c79awyy c1h4oojx c1maqc49 c59r1n5 ckog0ma c1mq2fno c4soymj c1g8gdgb cs7al47 c15hw6ik c4dsq23 c18f31xn c4ryyyw cc5dwkw c1b14lbd c1erix7y c1bjkn0u c5hkkvr c1d8dpdl c137825p c1mpswyt c1x0gfv2 c7qvf1h cx55z9k c1rl8urc ci4c1vh chtoohx c1kubv18 c1qm1ugv cq0cp5t c8n0f9j`}>
 </HtmlEmbed>
 <Slot>

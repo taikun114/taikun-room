@@ -39,7 +39,7 @@ export const getResources = (_props: { system: System }) => {
 }): PageMeta => {
   let CMS = resources.CMS_1
   return {
-    title: CMS?.data?.data?.post?.title + " - たいくんの部屋",
+    title: CMS?.data?.data?.post?.title && CMS?.data?.data?.post?.title + " - たいくんの部屋" || "コンテンツが見つかりませんでした - たいくんの部屋",
     description: CMS?.data?.data?.post?.excerpt,
     excludePageFromSearch: false,
     language: "ja-jp",

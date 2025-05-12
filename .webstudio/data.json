@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "2fc38d10-8b8b-4f51-b9dd-22e9e8486dc7",
+    "id": "2bedc124-d67f-4f3d-bbbb-6363426d5f72",
     "projectId": "dba9d753-ddf9-434f-be13-fdc5fabadb2d",
-    "version": 3958,
-    "createdAt": "2025-05-12T09:13:24.902+00:00",
-    "updatedAt": "2025-05-12T09:13:24.902+00:00",
+    "version": 3989,
+    "createdAt": "2025-05-12T11:37:16.688+00:00",
+    "updatedAt": "2025-05-12T11:37:16.688+00:00",
     "pages": {
       "meta": {
         "siteName": "たいくんの部屋",
@@ -457,10 +457,10 @@
         {
           "id": "2EtrpSHGGeTpKj3lzHCGl",
           "name": "ブログ",
-          "title": "$ws$dataSource$A57vcUrwKocJj2m7uMEXQ.data.data.post.title + \" - たいくんの部屋\"",
+          "title": "$ws$dataSource$A57vcUrwKocJj2m7uMEXQ.data.data.post.title && $ws$dataSource$A57vcUrwKocJj2m7uMEXQ.data.data.post.title + \" - たいくんの部屋\" || \"コンテンツが見つかりませんでした - たいくんの部屋\"",
           "history": [
-            "/blog/%E9%87%8D%E8%A4%87%E3%81%97%E3%81%9F%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E5%89%8A%E9%99%A4%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%BD%E3%83%95%E3%83%88%E3%80%8Ctenorshare",
             "/blog/tcl-43p8b-pros-and-cons",
+            "/blog/%E9%87%8D%E8%A4%87%E3%81%97%E3%81%9F%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E5%89%8A%E9%99%A4%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%BD%E3%83%95%E3%83%88%E3%80%8Ctenorshare",
             "/blog/macos-sequoia-with-oclp-bugs-and-how-to-fix",
             "/blog/how-to-update-firmware-using-terminal-command",
             "/blog/latest-free-benchmark-app-for-mac",
@@ -508,7 +508,7 @@
         {
           "id": "lClufJshNuJMyCIBc0IUU",
           "name": "ページ",
-          "title": "$ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title + \" - たいくんの部屋\"",
+          "title": "$ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title && $ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title + \" - たいくんの部屋\" || \"コンテンツが見つかりませんでした - たいくんの部屋\"",
           "history": [
             "/page/privacy-policy",
             "/page/contact",
@@ -33431,7 +33431,7 @@
           "instanceId": "PriIE8_i7ZQe3aHBNQgbp",
           "name": "loading",
           "type": "string",
-          "value": "lazy"
+          "value": "eager"
         }
       ],
       [
@@ -33752,6 +33752,36 @@
           "name": "target",
           "type": "string",
           "value": "_blank"
+        }
+      ],
+      [
+        "EsiFcIew-YDd933OvgMGn",
+        {
+          "id": "EsiFcIew-YDd933OvgMGn",
+          "instanceId": "-Nd4wvvrwQbaORb662UCy",
+          "name": "alt",
+          "type": "string",
+          "value": "TAIKUN Room.com | たいくんの部屋"
+        }
+      ],
+      [
+        "BekT7vxL1MMCtLBRYzlCo",
+        {
+          "id": "BekT7vxL1MMCtLBRYzlCo",
+          "instanceId": "Yj8aTfRMgi-yBkBV585WO",
+          "name": "alt",
+          "type": "string",
+          "value": "TAIKUN Room.com | たいくんの部屋"
+        }
+      ],
+      [
+        "I6_MhQwS5vwDX6ka2g1ZE",
+        {
+          "id": "I6_MhQwS5vwDX6ka2g1ZE",
+          "instanceId": "Yj8aTfRMgi-yBkBV585WO",
+          "name": "loading",
+          "type": "string",
+          "value": "eager"
         }
       ]
     ],
@@ -35134,12 +35164,7 @@
           "type": "instance",
           "id": "hCZKQ0NvPaZQQqOw1NVXL",
           "component": "Time",
-          "children": [
-            {
-              "type": "text",
-              "value": ""
-            }
-          ]
+          "children": []
         }
       ],
       [
@@ -35907,12 +35932,7 @@
           "type": "instance",
           "id": "QwfAV0XdNotXvVzOKKM8S",
           "component": "Time",
-          "children": [
-            {
-              "type": "text",
-              "value": ""
-            }
-          ]
+          "children": []
         }
       ],
       [
@@ -38353,10 +38373,10 @@
     {
       "id": "2EtrpSHGGeTpKj3lzHCGl",
       "name": "ブログ",
-      "title": "$ws$dataSource$A57vcUrwKocJj2m7uMEXQ.data.data.post.title + \" - たいくんの部屋\"",
+      "title": "$ws$dataSource$A57vcUrwKocJj2m7uMEXQ.data.data.post.title && $ws$dataSource$A57vcUrwKocJj2m7uMEXQ.data.data.post.title + \" - たいくんの部屋\" || \"コンテンツが見つかりませんでした - たいくんの部屋\"",
       "history": [
-        "/blog/%E9%87%8D%E8%A4%87%E3%81%97%E3%81%9F%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E5%89%8A%E9%99%A4%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%BD%E3%83%95%E3%83%88%E3%80%8Ctenorshare",
         "/blog/tcl-43p8b-pros-and-cons",
+        "/blog/%E9%87%8D%E8%A4%87%E3%81%97%E3%81%9F%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E5%89%8A%E9%99%A4%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%BD%E3%83%95%E3%83%88%E3%80%8Ctenorshare",
         "/blog/macos-sequoia-with-oclp-bugs-and-how-to-fix",
         "/blog/how-to-update-firmware-using-terminal-command",
         "/blog/latest-free-benchmark-app-for-mac",
@@ -38404,7 +38424,7 @@
     {
       "id": "lClufJshNuJMyCIBc0IUU",
       "name": "ページ",
-      "title": "$ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title + \" - たいくんの部屋\"",
+      "title": "$ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title && $ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title + \" - たいくんの部屋\" || \"コンテンツが見つかりませんでした - たいくんの部屋\"",
       "history": [
         "/page/privacy-policy",
         "/page/contact",

@@ -10,7 +10,7 @@ import { Slot as Slot, Image as Image, Fragment as Fragment_1, Box as Box, Headi
 
       export const projectId = "dba9d753-ddf9-434f-be13-fdc5fabadb2d";
 
-      export const lastPublished = "2025-05-12T09:13:24.902Z";
+      export const lastPublished = "2025-05-12T11:37:16.688Z";
 
       export const siteName = "たいくんの部屋";
 
@@ -77,6 +77,7 @@ src={"/assets/taikun-room-full_SXGNYnXHAdTh7JkRN0ZcG.png"}
 width={1200}
 height={129}
 loading={"eager"}
+alt={"TAIKUN Room.com | たいくんの部屋"}
 className={`w-image`} />
 </Link>
 <Box
@@ -152,7 +153,7 @@ className={`w-link cu39xf9 ckw650q c14njgcc ct7i05a`}>
 className={`w-box`}>
 <Image
 src={collectionItem?.node?.featuredImage?.node?.sourceUrl}
-loading={"lazy"}
+loading={"eager"}
 width={collectionItem?.node?.featuredImage?.node?.mediaDetails?.width}
 height={collectionItem?.node?.featuredImage?.node?.mediaDetails?.height}
 alt={collectionItem?.node?.featuredImage?.node?.altText}

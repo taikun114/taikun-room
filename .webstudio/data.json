@@ -1,16 +1,16 @@
 {
   "build": {
-    "id": "2bedc124-d67f-4f3d-bbbb-6363426d5f72",
+    "id": "be6ced7f-add9-4b36-93c2-4a5dfbaa4750",
     "projectId": "dba9d753-ddf9-434f-be13-fdc5fabadb2d",
-    "version": 3989,
-    "createdAt": "2025-05-12T11:37:16.688+00:00",
-    "updatedAt": "2025-05-12T11:37:16.688+00:00",
+    "version": 4018,
+    "createdAt": "2025-05-12T13:47:13.736+00:00",
+    "updatedAt": "2025-05-12T13:47:13.736+00:00",
     "pages": {
       "meta": {
         "siteName": "たいくんの部屋",
         "contactEmail": "contact.taikun@gmail.com",
         "faviconAssetId": "064df83190d2a8579707aeb2207748ed5b193d09046e142128a05c1faebe3a68",
-        "code": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-K4H191M0HY\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-K4H191M0HY');\n</script>\n\n<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4148785556928544\"\n     crossorigin=\"anonymous\"></script>"
+        "code": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-K4H191M0HY\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-K4H191M0HY');\n</script>\n\n<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4148785556928544\"\n     crossorigin=\"anonymous\"></script>\n\n<style>\n@import url('https://api.fonts.coollabs.io/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans+JP:wght@100..900&display=swap');\n</style>"
       },
       "compiler": {
         "atomicStyles": true
@@ -649,7 +649,7 @@
             "type": "fontFamily",
             "value": [
               "Inter",
-              "Source Han Sans JP VF"
+              "Noto Sans JP"
             ]
           }
         }
@@ -4256,96 +4256,6 @@
         }
       ],
       [
-        "XXWIx-IieXfjfoK7wj2HJ:7hPMMapQ_YKRAmEWw_M-S:fontFamily:",
-        {
-          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
-          "styleSourceId": "XXWIx-IieXfjfoK7wj2HJ",
-          "property": "fontFamily",
-          "value": {
-            "type": "fontFamily",
-            "value": [
-              "Inter",
-              "Source Han Sans JP VF"
-            ]
-          }
-        }
-      ],
-      [
-        "_vM_UBQifdWrIHrLSE5CD:7hPMMapQ_YKRAmEWw_M-S:fontFamily:",
-        {
-          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
-          "styleSourceId": "_vM_UBQifdWrIHrLSE5CD",
-          "property": "fontFamily",
-          "value": {
-            "type": "fontFamily",
-            "value": [
-              "Inter",
-              "Source Han Sans JP VF"
-            ]
-          }
-        }
-      ],
-      [
-        "ecmvLV-7a3i7bNP7jb5jj:7hPMMapQ_YKRAmEWw_M-S:fontFamily:",
-        {
-          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
-          "styleSourceId": "ecmvLV-7a3i7bNP7jb5jj",
-          "property": "fontFamily",
-          "value": {
-            "type": "fontFamily",
-            "value": [
-              "Inter",
-              "Source Han Sans JP VF"
-            ]
-          }
-        }
-      ],
-      [
-        "hsdTjbEPscKP-pXgjnBEJ:7hPMMapQ_YKRAmEWw_M-S:fontFamily:",
-        {
-          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
-          "styleSourceId": "hsdTjbEPscKP-pXgjnBEJ",
-          "property": "fontFamily",
-          "value": {
-            "type": "fontFamily",
-            "value": [
-              "Inter",
-              "Source Han Sans JP VF"
-            ]
-          }
-        }
-      ],
-      [
-        "eF9LgRQ9jamuwdNhkGMdg:7hPMMapQ_YKRAmEWw_M-S:fontFamily:",
-        {
-          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
-          "styleSourceId": "eF9LgRQ9jamuwdNhkGMdg",
-          "property": "fontFamily",
-          "value": {
-            "type": "fontFamily",
-            "value": [
-              "Inter",
-              "Source Han Sans JP VF"
-            ]
-          }
-        }
-      ],
-      [
-        "iTMdug-8gDfdHI6ll4Kor:7hPMMapQ_YKRAmEWw_M-S:fontFamily:",
-        {
-          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
-          "styleSourceId": "iTMdug-8gDfdHI6ll4Kor",
-          "property": "fontFamily",
-          "value": {
-            "type": "fontFamily",
-            "value": [
-              "Inter",
-              "Source Han Sans JP VF"
-            ]
-          }
-        }
-      ],
-      [
         "CKErqj_8PE1tqeexT2iTb:7hPMMapQ_YKRAmEWw_M-S:backgroundColor::hover",
         {
           "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
@@ -6379,21 +6289,6 @@
           "value": {
             "type": "keyword",
             "value": "wrap"
-          }
-        }
-      ],
-      [
-        "0ilqeGRdSxpu2Tec2svqk:7hPMMapQ_YKRAmEWw_M-S:fontFamily:",
-        {
-          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
-          "styleSourceId": "0ilqeGRdSxpu2Tec2svqk",
-          "property": "fontFamily",
-          "value": {
-            "type": "fontFamily",
-            "value": [
-              "Inter",
-              "Source Han Sans JP VF"
-            ]
           }
         }
       ],
@@ -11610,21 +11505,6 @@
           "value": {
             "type": "keyword",
             "value": "wrap"
-          }
-        }
-      ],
-      [
-        "yoYpeFdDZcN3LgdLBtiS9:7hPMMapQ_YKRAmEWw_M-S:fontFamily:",
-        {
-          "styleSourceId": "yoYpeFdDZcN3LgdLBtiS9",
-          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
-          "property": "fontFamily",
-          "value": {
-            "type": "fontFamily",
-            "value": [
-              "Inter",
-              "Source Han Sans JP VF"
-            ]
           }
         }
       ],
@@ -29753,6 +29633,13 @@
           "type": "local",
           "id": "CSFabx0vXMO4i_OMdn5uw"
         }
+      ],
+      [
+        "SZqn9NyCojJwtQITEthvh",
+        {
+          "type": "local",
+          "id": "SZqn9NyCojJwtQITEthvh"
+        }
       ]
     ],
     "styleSourceSelections": [
@@ -31679,6 +31566,15 @@
           "instanceId": "rRcskmoI16hg-8Ros-fdD",
           "values": [
             "CSFabx0vXMO4i_OMdn5uw"
+          ]
+        }
+      ],
+      [
+        "m4KLrhUXjQ3FRBYFzPwMR",
+        {
+          "instanceId": "m4KLrhUXjQ3FRBYFzPwMR",
+          "values": [
+            "SZqn9NyCojJwtQITEthvh"
           ]
         }
       ]
@@ -38522,33 +38418,6 @@
       }
     },
     {
-      "id": "0be2399ea925f1f83ff974764761da9860ec50742ed29a5d4c1ffd0c5c7ac3a8",
-      "name": "Inter-VariableFont_opsz_wght_HOo21NIbqKC0RKQh4mucq.ttf",
-      "description": null,
-      "projectId": "dba9d753-ddf9-434f-be13-fdc5fabadb2d",
-      "size": 874708,
-      "type": "font",
-      "createdAt": "2025-04-30T08:31:45.419+00:00",
-      "format": "ttf",
-      "meta": {
-        "family": "Inter",
-        "variationAxes": {
-          "opsz": {
-            "name": "Optical size",
-            "min": 14,
-            "default": 14,
-            "max": 32
-          },
-          "wght": {
-            "name": "Weight",
-            "min": 100,
-            "default": 400,
-            "max": 900
-          }
-        }
-      }
-    },
-    {
       "id": "545794f9b5db556a0e5399d818670b14a27d8d06896bae25200799b04d514578",
       "name": "alex-shuper-easvYe4ixJk-unsplash_Hb9uT95xbDf09nQ4bHu22.webp",
       "description": null,
@@ -38560,27 +38429,6 @@
       "meta": {
         "width": 1920,
         "height": 1080
-      }
-    },
-    {
-      "id": "83f1fb71af1de1750f61e79ead12179fddab2dc387f4bdac8b4852f8e7ed7354",
-      "name": "SourceHanSansJP-VF.ttf_6pYUVA7f__C2UTbutLl5c.woff2",
-      "description": null,
-      "projectId": "dba9d753-ddf9-434f-be13-fdc5fabadb2d",
-      "size": 4354296,
-      "type": "font",
-      "createdAt": "2025-04-30T08:31:45.523+00:00",
-      "format": "woff2",
-      "meta": {
-        "family": "Source Han Sans JP VF",
-        "variationAxes": {
-          "wght": {
-            "name": "Weight",
-            "min": 250,
-            "default": 250,
-            "max": 900
-          }
-        }
       }
     },
     {

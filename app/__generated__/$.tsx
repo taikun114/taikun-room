@@ -10,7 +10,7 @@ import { Body as Body, Link as Link } from "@webstudio-is/sdk-components-react-r
 
       export const projectId = "dba9d753-ddf9-434f-be13-fdc5fabadb2d";
 
-      export const lastPublished = "2025-05-12T11:37:16.688Z";
+      export const lastPublished = "2025-05-12T13:47:13.736Z";
 
       export const siteName = "たいくんの部屋";
 
@@ -21,7 +21,7 @@ import { Body as Body, Link as Link } from "@webstudio-is/sdk-components-react-r
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =
-        ["Inter-VariableFont_opsz_wght_HOo21NIbqKC0RKQh4mucq.ttf","SourceHanSansJP-VF.ttf_6pYUVA7f__C2UTbutLl5c.woff2"]
+        []
 
       export const pageBackgroundImageAssets: string[] =
         []

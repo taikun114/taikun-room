@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "dba9d753-ddf9-434f-be13-fdc5fabadb2d";
 
-      export const lastPublished = "2025-05-12T13:47:13.736Z";
+      export const lastPublished = "2025-05-13T06:56:36.694Z";
 
       export const siteName = "たいくんの部屋";
 

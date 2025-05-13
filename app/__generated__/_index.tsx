@@ -10,7 +10,7 @@ import { Slot as Slot, Image as Image, Fragment as Fragment_1, Box as Box, Headi
 
       export const projectId = "dba9d753-ddf9-434f-be13-fdc5fabadb2d";
 
-      export const lastPublished = "2025-05-12T13:47:13.736Z";
+      export const lastPublished = "2025-05-13T06:56:36.694Z";
 
       export const siteName = "たいくんの部屋";
 
@@ -211,7 +211,7 @@ className={`w-time cb1oezn c1kmny9s`} />
 )}
 </Box>
 <Box
-className={`w-box c16u96pk c1demw6w cmqkj62 c16uhwia ct6b9qv cfprw0w`}>
+className={`w-box c16u96pk c1demw6w cmqkj62 c16uhwia ct6b9qv c1kdz7t6`}>
 {(_?.data?.data?.posts?.pageInfo?.hasPreviousPage) &&
 <Link
 aria-current={"false"}

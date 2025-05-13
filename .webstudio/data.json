@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "be6ced7f-add9-4b36-93c2-4a5dfbaa4750",
+    "id": "57bcee60-e8bc-4efc-9b4e-dc13dc6af4a9",
     "projectId": "dba9d753-ddf9-434f-be13-fdc5fabadb2d",
-    "version": 4018,
-    "createdAt": "2025-05-12T13:47:13.736+00:00",
-    "updatedAt": "2025-05-12T13:47:13.736+00:00",
+    "version": 4022,
+    "createdAt": "2025-05-13T06:56:36.694+00:00",
+    "updatedAt": "2025-05-13T06:56:36.694+00:00",
     "pages": {
       "meta": {
         "siteName": "たいくんの部屋",
@@ -3092,7 +3092,7 @@
           "value": {
             "type": "unit",
             "unit": "rem",
-            "value": 4
+            "value": 2
           }
         }
       ],
@@ -26459,8 +26459,8 @@
       [
         "KiC_6XOkuFKG_YEJ8X9qf:7hPMMapQ_YKRAmEWw_M-S:marginBottom:",
         {
-          "styleSourceId": "KiC_6XOkuFKG_YEJ8X9qf",
           "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
+          "styleSourceId": "KiC_6XOkuFKG_YEJ8X9qf",
           "property": "marginBottom",
           "value": {
             "type": "unit",

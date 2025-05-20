@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "57bcee60-e8bc-4efc-9b4e-dc13dc6af4a9",
+    "id": "cd1413be-c8cf-44b1-b9cf-86cc21eb2ba0",
     "projectId": "dba9d753-ddf9-434f-be13-fdc5fabadb2d",
-    "version": 4022,
-    "createdAt": "2025-05-13T06:56:36.694+00:00",
-    "updatedAt": "2025-05-13T06:56:36.694+00:00",
+    "version": 4031,
+    "createdAt": "2025-05-20T05:29:01.383+00:00",
+    "updatedAt": "2025-05-20T05:29:01.383+00:00",
     "pages": {
       "meta": {
         "siteName": "たいくんの部屋",
@@ -33678,6 +33678,16 @@
           "name": "loading",
           "type": "string",
           "value": "eager"
+        }
+      ],
+      [
+        "yf5pM5tK_yFuPNn_yqzkN",
+        {
+          "id": "yf5pM5tK_yFuPNn_yqzkN",
+          "instanceId": "zfiDIp1sO5LUljGbEZtT6",
+          "name": "aria-label",
+          "type": "string",
+          "value": "ナビゲーションメニュー"
         }
       ]
     ],

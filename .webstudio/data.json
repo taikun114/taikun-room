@@ -1,16 +1,16 @@
 {
   "build": {
-    "id": "cd1413be-c8cf-44b1-b9cf-86cc21eb2ba0",
+    "id": "20eb4efa-72b3-43f3-80bc-6a1a2f2884c5",
     "projectId": "dba9d753-ddf9-434f-be13-fdc5fabadb2d",
-    "version": 4031,
-    "createdAt": "2025-05-20T05:29:01.383+00:00",
-    "updatedAt": "2025-05-20T05:29:01.383+00:00",
+    "version": 4197,
+    "createdAt": "2025-05-21T12:31:36.613+00:00",
+    "updatedAt": "2025-05-21T12:31:36.613+00:00",
     "pages": {
       "meta": {
         "siteName": "たいくんの部屋",
         "contactEmail": "contact.taikun@gmail.com",
         "faviconAssetId": "064df83190d2a8579707aeb2207748ed5b193d09046e142128a05c1faebe3a68",
-        "code": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-K4H191M0HY\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-K4H191M0HY');\n</script>\n\n<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4148785556928544\"\n     crossorigin=\"anonymous\"></script>\n\n<style>\n@import url('https://api.fonts.coollabs.io/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans+JP:wght@100..900&display=swap');\n</style>"
+        "code": "<!-- CSS Settings -->\n<style>\n  @media (prefers-color-scheme: dark) {\n    img {\n      filter: brightness(90%);\n    }\n  }\n</style>\n\n<!-- Web Fonts -->\n<style>\n@import url('https://api.fonts.coollabs.io/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans+JP:wght@100..900&display=swap');\n</style>\n\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-K4H191M0HY\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-K4H191M0HY');\n</script>\n\n<!-- Google AdSense -->\n<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4148785556928544\"\n     crossorigin=\"anonymous\"></script>"
       },
       "compiler": {
         "atomicStyles": true
@@ -1486,69 +1486,6 @@
           "value": {
             "type": "unparsed",
             "value": "calc((100% / 3) - (2rem / 3))"
-          }
-        }
-      ],
-      [
-        "9GSzBa5apK3z4NRSapAks:7hPMMapQ_YKRAmEWw_M-S:borderTopLeftRadius:",
-        {
-          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
-          "styleSourceId": "9GSzBa5apK3z4NRSapAks",
-          "property": "borderTopLeftRadius",
-          "value": {
-            "type": "unit",
-            "unit": "px",
-            "value": 24
-          }
-        }
-      ],
-      [
-        "9GSzBa5apK3z4NRSapAks:7hPMMapQ_YKRAmEWw_M-S:borderTopRightRadius:",
-        {
-          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
-          "styleSourceId": "9GSzBa5apK3z4NRSapAks",
-          "property": "borderTopRightRadius",
-          "value": {
-            "type": "unit",
-            "unit": "px",
-            "value": 24
-          }
-        }
-      ],
-      [
-        "9GSzBa5apK3z4NRSapAks:7hPMMapQ_YKRAmEWw_M-S:width:",
-        {
-          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
-          "styleSourceId": "9GSzBa5apK3z4NRSapAks",
-          "property": "width",
-          "value": {
-            "type": "unit",
-            "unit": "%",
-            "value": 100
-          }
-        }
-      ],
-      [
-        "9GSzBa5apK3z4NRSapAks:7hPMMapQ_YKRAmEWw_M-S:aspectRatio:",
-        {
-          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
-          "styleSourceId": "9GSzBa5apK3z4NRSapAks",
-          "property": "aspectRatio",
-          "value": {
-            "type": "unparsed",
-            "value": "calc(16 / 9)"
-          }
-        }
-      ],
-      [
-        "9GSzBa5apK3z4NRSapAks:7hPMMapQ_YKRAmEWw_M-S:objectFit:",
-        {
-          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
-          "styleSourceId": "9GSzBa5apK3z4NRSapAks",
-          "property": "objectFit",
-          "value": {
-            "type": "keyword",
-            "value": "cover"
           }
         }
       ],
@@ -28138,6 +28075,69 @@
             ]
           }
         }
+      ],
+      [
+        "9GSzBa5apK3z4NRSapAks:7hPMMapQ_YKRAmEWw_M-S:borderTopLeftRadius:",
+        {
+          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
+          "styleSourceId": "9GSzBa5apK3z4NRSapAks",
+          "property": "borderTopLeftRadius",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 24
+          }
+        }
+      ],
+      [
+        "9GSzBa5apK3z4NRSapAks:7hPMMapQ_YKRAmEWw_M-S:borderTopRightRadius:",
+        {
+          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
+          "styleSourceId": "9GSzBa5apK3z4NRSapAks",
+          "property": "borderTopRightRadius",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 24
+          }
+        }
+      ],
+      [
+        "9GSzBa5apK3z4NRSapAks:7hPMMapQ_YKRAmEWw_M-S:width:",
+        {
+          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
+          "styleSourceId": "9GSzBa5apK3z4NRSapAks",
+          "property": "width",
+          "value": {
+            "type": "unit",
+            "unit": "%",
+            "value": 100
+          }
+        }
+      ],
+      [
+        "9GSzBa5apK3z4NRSapAks:7hPMMapQ_YKRAmEWw_M-S:aspectRatio:",
+        {
+          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
+          "styleSourceId": "9GSzBa5apK3z4NRSapAks",
+          "property": "aspectRatio",
+          "value": {
+            "type": "unparsed",
+            "value": "calc(16 / 9)"
+          }
+        }
+      ],
+      [
+        "9GSzBa5apK3z4NRSapAks:7hPMMapQ_YKRAmEWw_M-S:objectFit:",
+        {
+          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
+          "styleSourceId": "9GSzBa5apK3z4NRSapAks",
+          "property": "objectFit",
+          "value": {
+            "type": "keyword",
+            "value": "cover"
+          }
+        }
       ]
     ],
     "styleSources": [
@@ -28230,13 +28230,6 @@
         {
           "type": "local",
           "id": "DOCJYvEYy2XlMv_XcnRZR"
-        }
-      ],
-      [
-        "9GSzBa5apK3z4NRSapAks",
-        {
-          "type": "local",
-          "id": "9GSzBa5apK3z4NRSapAks"
         }
       ],
       [
@@ -29640,6 +29633,13 @@
           "type": "local",
           "id": "SZqn9NyCojJwtQITEthvh"
         }
+      ],
+      [
+        "9GSzBa5apK3z4NRSapAks",
+        {
+          "type": "local",
+          "id": "9GSzBa5apK3z4NRSapAks"
+        }
       ]
     ],
     "styleSourceSelections": [
@@ -29757,15 +29757,6 @@
           "instanceId": "F1ATjHRtzQsn4XFGf5B4D",
           "values": [
             "DOCJYvEYy2XlMv_XcnRZR"
-          ]
-        }
-      ],
-      [
-        "PriIE8_i7ZQe3aHBNQgbp",
-        {
-          "instanceId": "PriIE8_i7ZQe3aHBNQgbp",
-          "values": [
-            "9GSzBa5apK3z4NRSapAks"
           ]
         }
       ],
@@ -31577,6 +31568,15 @@
             "SZqn9NyCojJwtQITEthvh"
           ]
         }
+      ],
+      [
+        "PriIE8_i7ZQe3aHBNQgbp",
+        {
+          "instanceId": "PriIE8_i7ZQe3aHBNQgbp",
+          "values": [
+            "9GSzBa5apK3z4NRSapAks"
+          ]
+        }
       ]
     ],
     "props": [
@@ -31688,16 +31688,6 @@
           "name": "item",
           "type": "parameter",
           "value": "MVynO8S0IjQpl3yMmiCEO"
-        }
-      ],
-      [
-        "yBdQ0IKIzrWUndpXqdicW",
-        {
-          "id": "yBdQ0IKIzrWUndpXqdicW",
-          "instanceId": "PriIE8_i7ZQe3aHBNQgbp",
-          "name": "src",
-          "type": "expression",
-          "value": "$ws$dataSource$MVynO8S0IjQpl3yMmiCEO.node.featuredImage.node.sourceUrl"
         }
       ],
       [
@@ -33321,46 +33311,6 @@
         }
       ],
       [
-        "DrQZJg8BIThWp823aL_vk",
-        {
-          "id": "DrQZJg8BIThWp823aL_vk",
-          "instanceId": "PriIE8_i7ZQe3aHBNQgbp",
-          "name": "loading",
-          "type": "string",
-          "value": "eager"
-        }
-      ],
-      [
-        "ZahwdGdI4Hyts_q8gmNLs",
-        {
-          "id": "ZahwdGdI4Hyts_q8gmNLs",
-          "instanceId": "PriIE8_i7ZQe3aHBNQgbp",
-          "name": "width",
-          "type": "expression",
-          "value": "$ws$dataSource$MVynO8S0IjQpl3yMmiCEO.node.featuredImage.node.mediaDetails.width"
-        }
-      ],
-      [
-        "b6SlaGisFcLvNh6jTU-sj",
-        {
-          "id": "b6SlaGisFcLvNh6jTU-sj",
-          "instanceId": "PriIE8_i7ZQe3aHBNQgbp",
-          "name": "height",
-          "type": "expression",
-          "value": "$ws$dataSource$MVynO8S0IjQpl3yMmiCEO.node.featuredImage.node.mediaDetails.height"
-        }
-      ],
-      [
-        "8HPtEVMs3uPvsxrUO-U3h",
-        {
-          "id": "8HPtEVMs3uPvsxrUO-U3h",
-          "instanceId": "PriIE8_i7ZQe3aHBNQgbp",
-          "name": "alt",
-          "type": "expression",
-          "value": "$ws$dataSource$MVynO8S0IjQpl3yMmiCEO.node.featuredImage.node.altText"
-        }
-      ],
-      [
         "7ULLBmGymKHirFISUJBt1",
         {
           "id": "7ULLBmGymKHirFISUJBt1",
@@ -33688,6 +33638,76 @@
           "name": "aria-label",
           "type": "string",
           "value": "ナビゲーションメニュー"
+        }
+      ],
+      [
+        "GhMP1qgnl5hoGqLT40K-a",
+        {
+          "id": "GhMP1qgnl5hoGqLT40K-a",
+          "instanceId": "GJxjDBl3LPdYb9OMOZEGu",
+          "name": "data-ws-show",
+          "type": "boolean",
+          "value": true
+        }
+      ],
+      [
+        "yBdQ0IKIzrWUndpXqdicW",
+        {
+          "id": "yBdQ0IKIzrWUndpXqdicW",
+          "instanceId": "PriIE8_i7ZQe3aHBNQgbp",
+          "name": "src",
+          "type": "expression",
+          "value": "$ws$dataSource$MVynO8S0IjQpl3yMmiCEO.node.featuredImage.node.sourceUrl"
+        }
+      ],
+      [
+        "DrQZJg8BIThWp823aL_vk",
+        {
+          "id": "DrQZJg8BIThWp823aL_vk",
+          "instanceId": "PriIE8_i7ZQe3aHBNQgbp",
+          "name": "loading",
+          "type": "string",
+          "value": "eager"
+        }
+      ],
+      [
+        "ZahwdGdI4Hyts_q8gmNLs",
+        {
+          "id": "ZahwdGdI4Hyts_q8gmNLs",
+          "instanceId": "PriIE8_i7ZQe3aHBNQgbp",
+          "name": "width",
+          "type": "expression",
+          "value": "$ws$dataSource$MVynO8S0IjQpl3yMmiCEO.node.featuredImage.node.mediaDetails.width"
+        }
+      ],
+      [
+        "b6SlaGisFcLvNh6jTU-sj",
+        {
+          "id": "b6SlaGisFcLvNh6jTU-sj",
+          "instanceId": "PriIE8_i7ZQe3aHBNQgbp",
+          "name": "height",
+          "type": "expression",
+          "value": "$ws$dataSource$MVynO8S0IjQpl3yMmiCEO.node.featuredImage.node.mediaDetails.height"
+        }
+      ],
+      [
+        "8HPtEVMs3uPvsxrUO-U3h",
+        {
+          "id": "8HPtEVMs3uPvsxrUO-U3h",
+          "instanceId": "PriIE8_i7ZQe3aHBNQgbp",
+          "name": "alt",
+          "type": "expression",
+          "value": "$ws$dataSource$MVynO8S0IjQpl3yMmiCEO.node.featuredImage.node.altText"
+        }
+      ],
+      [
+        "hdBBYA1Gx1Fwvsw6F1hK5",
+        {
+          "id": "hdBBYA1Gx1Fwvsw6F1hK5",
+          "instanceId": "EHZ303lRkhLGZupZvCf4P",
+          "name": "data-ws-show",
+          "type": "boolean",
+          "value": true
         }
       ]
     ],
@@ -34251,16 +34271,6 @@
               "value": "Fuk0yFh_j9ojHyFwKvnse"
             }
           ]
-        }
-      ],
-      [
-        "PriIE8_i7ZQe3aHBNQgbp",
-        {
-          "type": "instance",
-          "id": "PriIE8_i7ZQe3aHBNQgbp",
-          "component": "Image",
-          "label": "サムネイル",
-          "children": []
         }
       ],
       [
@@ -38231,6 +38241,16 @@
               "value": "たいくん"
             }
           ]
+        }
+      ],
+      [
+        "PriIE8_i7ZQe3aHBNQgbp",
+        {
+          "type": "instance",
+          "id": "PriIE8_i7ZQe3aHBNQgbp",
+          "component": "Image",
+          "label": "サムネイル",
+          "children": []
         }
       ]
     ],

@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "f9357dfc-ab14-481d-a396-f0a427004c6c",
+    "id": "d6c1a2d1-da64-48e1-a35a-271690958f50",
     "projectId": "dba9d753-ddf9-434f-be13-fdc5fabadb2d",
-    "version": 4208,
-    "createdAt": "2025-05-24T10:24:51.426+00:00",
-    "updatedAt": "2025-05-24T10:24:51.426+00:00",
+    "version": 4214,
+    "createdAt": "2025-05-24T12:20:51.114+00:00",
+    "updatedAt": "2025-05-24T12:20:51.114+00:00",
     "pages": {
       "meta": {
         "siteName": "たいくんの部屋",
@@ -469,9 +469,9 @@
           "name": "ブログ",
           "title": "$ws$dataSource$A57vcUrwKocJj2m7uMEXQ.data.data.post.title && $ws$dataSource$A57vcUrwKocJj2m7uMEXQ.data.data.post.title + \" - たいくんの部屋\" || \"コンテンツが見つかりませんでした - たいくんの部屋\"",
           "history": [
+            "/blog/macos-sequoia-with-oclp-bugs-and-how-to-fix",
             "/blog/tcl-43p8b-pros-and-cons",
             "/blog/%E9%87%8D%E8%A4%87%E3%81%97%E3%81%9F%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E5%89%8A%E9%99%A4%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%BD%E3%83%95%E3%83%88%E3%80%8Ctenorshare",
-            "/blog/macos-sequoia-with-oclp-bugs-and-how-to-fix",
             "/blog/how-to-update-firmware-using-terminal-command",
             "/blog/latest-free-benchmark-app-for-mac",
             "/blog/how-to-make-bootable-usb-installer",
@@ -28174,6 +28174,58 @@
           },
           "listed": true
         }
+      ],
+      [
+        "aoQyqhf5KY4caztC8PV8c:7hPMMapQ_YKRAmEWw_M-S:marginLeft:",
+        {
+          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
+          "styleSourceId": "aoQyqhf5KY4caztC8PV8c",
+          "property": "marginLeft",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "aoQyqhf5KY4caztC8PV8c:7hPMMapQ_YKRAmEWw_M-S:paddingLeft:",
+        {
+          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
+          "styleSourceId": "aoQyqhf5KY4caztC8PV8c",
+          "property": "paddingLeft",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 0.5
+          }
+        }
+      ],
+      [
+        "M3QIt0tOCnXp2fpbZ4vif:7hPMMapQ_YKRAmEWw_M-S:marginLeft:",
+        {
+          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
+          "styleSourceId": "M3QIt0tOCnXp2fpbZ4vif",
+          "property": "marginLeft",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "M3QIt0tOCnXp2fpbZ4vif:7hPMMapQ_YKRAmEWw_M-S:paddingLeft:",
+        {
+          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
+          "styleSourceId": "M3QIt0tOCnXp2fpbZ4vif",
+          "property": "paddingLeft",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 0.5
+          }
+        }
       ]
     ],
     "styleSources": [
@@ -38337,9 +38389,9 @@
       "name": "ブログ",
       "title": "$ws$dataSource$A57vcUrwKocJj2m7uMEXQ.data.data.post.title && $ws$dataSource$A57vcUrwKocJj2m7uMEXQ.data.data.post.title + \" - たいくんの部屋\" || \"コンテンツが見つかりませんでした - たいくんの部屋\"",
       "history": [
+        "/blog/macos-sequoia-with-oclp-bugs-and-how-to-fix",
         "/blog/tcl-43p8b-pros-and-cons",
         "/blog/%E9%87%8D%E8%A4%87%E3%81%97%E3%81%9F%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E5%89%8A%E9%99%A4%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%BD%E3%83%95%E3%83%88%E3%80%8Ctenorshare",
-        "/blog/macos-sequoia-with-oclp-bugs-and-how-to-fix",
         "/blog/how-to-update-firmware-using-terminal-command",
         "/blog/latest-free-benchmark-app-for-mac",
         "/blog/how-to-make-bootable-usb-installer",

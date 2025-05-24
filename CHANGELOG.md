@@ -1,6 +1,13 @@
 # たいくんの部屋 変更ログ
 
 ## 2025年
+### 5月24日
+- 画像を`block`から`inline`に変更
+- 画像のマージンを調整
+- 旧記事のリダイレクトを追加
+  - `/2021/11/used-mac-how-to-choice-guide-2022.html` → `https://old.taikun-life.com/2021/11/used-mac-how-to-choice-guide-2022.html`
+  - `/2022/08/how-to-install-home-assistant-on-virtualbox.html` → `https://old.taikun-life.com/2022/08/how-to-install-home-assistant-on-virtualbox.html`
+
 ### 5月21日
 - ダークモード時、画像を少し暗くするように変更
 

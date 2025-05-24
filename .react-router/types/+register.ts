@@ -19,6 +19,7 @@ type Params = {
   "/2024/09/how-to-install-macos-sequoia-on-unsupported-mac.html": {};
   "/2023/10/how-to-install-macos-sonoma-on-unsupported-mac.html": {};
   "/2024/11/how-to-update-firmware-using-terminal-command.html": {};
+  "/2022/08/how-to-install-home-assistant-on-virtualbox.html": {};
   "/2022/09/cpu-gpu-temp-check-from-menu-bar-vitalsigns.html": {};
   "/2022/10/macos-ventura-with-oclp-bugs-and-how-to-fix.html": {};
   "/2024/09/macos-sequoia-with-oclp-bugs-and-how-to-fix.html": {};
@@ -32,6 +33,7 @@ type Params = {
   "/2019/12/how-to-make-bootable-usb-installer.html": {};
   "/2021/07/latest-free-benchmark-app-for-mac.html": {};
   "/2021/10/history-of-iphone-and-differences.html": {};
+  "/2021/11/used-mac-how-to-choice-guide-2022.html": {};
   "/2022/12/tenorshare-duplicate-file-deleter.html": {};
   "/2020/01/minecraft-useful-inventory-tips.html": {};
   "/2020/03/catalina-patcher-japanese-input.html": {};

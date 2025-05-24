@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "20eb4efa-72b3-43f3-80bc-6a1a2f2884c5",
+    "id": "f9357dfc-ab14-481d-a396-f0a427004c6c",
     "projectId": "dba9d753-ddf9-434f-be13-fdc5fabadb2d",
-    "version": 4197,
-    "createdAt": "2025-05-21T12:31:36.613+00:00",
-    "updatedAt": "2025-05-21T12:31:36.613+00:00",
+    "version": 4208,
+    "createdAt": "2025-05-24T10:24:51.426+00:00",
+    "updatedAt": "2025-05-24T10:24:51.426+00:00",
     "pages": {
       "meta": {
         "siteName": "たいくんの部屋",
@@ -16,6 +16,16 @@
         "atomicStyles": true
       },
       "redirects": [
+        {
+          "old": "/2022/08/how-to-install-home-assistant-on-virtualbox.html",
+          "new": "https://old.taikun-life.com/2022/08/how-to-install-home-assistant-on-virtualbox.html",
+          "status": "301"
+        },
+        {
+          "old": "/2021/11/used-mac-how-to-choice-guide-2022.html",
+          "new": "https://old.taikun-life.com/2021/11/used-mac-how-to-choice-guide-2022.html",
+          "status": "301"
+        },
         {
           "old": "/2019/12/mac-mediacenter-kodi.html",
           "new": "https://old.taikun-room.com/2019/12/mac-mediacenter-kodi.html",
@@ -510,9 +520,9 @@
           "name": "ページ",
           "title": "$ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title && $ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title + \" - たいくんの部屋\" || \"コンテンツが見つかりませんでした - たいくんの部屋\"",
           "history": [
+            "/page/notice",
             "/page/privacy-policy",
             "/page/contact",
-            "/page/notice",
             "/page/"
           ],
           "rootInstanceId": "m4KLrhUXjQ3FRBYFzPwMR",
@@ -7442,7 +7452,7 @@
           "value": {
             "type": "unit",
             "unit": "rem",
-            "value": 1.5
+            "value": 0.5
           }
         }
       ],
@@ -7682,7 +7692,7 @@
           "property": "display",
           "value": {
             "type": "keyword",
-            "value": "block"
+            "value": "inline"
           }
         }
       ],
@@ -10239,8 +10249,8 @@
           "property": "marginBottom",
           "value": {
             "type": "unit",
-            "unit": "number",
-            "value": 0
+            "unit": "rem",
+            "value": -1
           }
         }
       ],
@@ -14807,7 +14817,7 @@
           "value": {
             "type": "unit",
             "unit": "rem",
-            "value": 1.5
+            "value": 0.5
           }
         }
       ],
@@ -15043,12 +15053,12 @@
       [
         "HCMf1lEg5zRHWTzShVZX-:7hPMMapQ_YKRAmEWw_M-S:display:",
         {
-          "styleSourceId": "HCMf1lEg5zRHWTzShVZX-",
           "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
+          "styleSourceId": "HCMf1lEg5zRHWTzShVZX-",
           "property": "display",
           "value": {
             "type": "keyword",
-            "value": "block"
+            "value": "inline"
           }
         }
       ],
@@ -15662,8 +15672,8 @@
           "property": "marginBottom",
           "value": {
             "type": "unit",
-            "unit": "number",
-            "value": 0
+            "unit": "rem",
+            "value": -1
           }
         }
       ],
@@ -28138,6 +28148,32 @@
             "value": "cover"
           }
         }
+      ],
+      [
+        "sFStCDeADbF9_jsMm9yDy:7hPMMapQ_YKRAmEWw_M-S:overflowWrap:",
+        {
+          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
+          "styleSourceId": "sFStCDeADbF9_jsMm9yDy",
+          "property": "overflowWrap",
+          "value": {
+            "type": "keyword",
+            "value": "break-word"
+          },
+          "listed": true
+        }
+      ],
+      [
+        "RiD76BmSOJWx8l8b2rlTO:7hPMMapQ_YKRAmEWw_M-S:overflowWrap:",
+        {
+          "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
+          "styleSourceId": "RiD76BmSOJWx8l8b2rlTO",
+          "property": "overflowWrap",
+          "value": {
+            "type": "keyword",
+            "value": "break-word"
+          },
+          "listed": true
+        }
       ]
     ],
     "styleSources": [
@@ -38352,9 +38388,9 @@
       "name": "ページ",
       "title": "$ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title && $ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title + \" - たいくんの部屋\" || \"コンテンツが見つかりませんでした - たいくんの部屋\"",
       "history": [
+        "/page/notice",
         "/page/privacy-policy",
         "/page/contact",
-        "/page/notice",
         "/page/"
       ],
       "rootInstanceId": "m4KLrhUXjQ3FRBYFzPwMR",

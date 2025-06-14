@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "d6c1a2d1-da64-48e1-a35a-271690958f50",
+    "id": "5a22df5e-123d-4dec-aa2a-75d4931b057b",
     "projectId": "dba9d753-ddf9-434f-be13-fdc5fabadb2d",
-    "version": 4214,
-    "createdAt": "2025-05-24T12:20:51.114+00:00",
-    "updatedAt": "2025-05-24T12:20:51.114+00:00",
+    "version": 4222,
+    "createdAt": "2025-06-14T14:15:29.276+00:00",
+    "updatedAt": "2025-06-14T14:15:29.276+00:00",
     "pages": {
       "meta": {
         "siteName": "たいくんの部屋",
@@ -470,6 +470,7 @@
           "title": "$ws$dataSource$A57vcUrwKocJj2m7uMEXQ.data.data.post.title && $ws$dataSource$A57vcUrwKocJj2m7uMEXQ.data.data.post.title + \" - たいくんの部屋\" || \"コンテンツが見つかりませんでした - たいくんの部屋\"",
           "history": [
             "/blog/macos-sequoia-with-oclp-bugs-and-how-to-fix",
+            "/blog/mac-markdown-editor-markedit",
             "/blog/tcl-43p8b-pros-and-cons",
             "/blog/%E9%87%8D%E8%A4%87%E3%81%97%E3%81%9F%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E5%89%8A%E9%99%A4%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%BD%E3%83%95%E3%83%88%E3%80%8Ctenorshare",
             "/blog/how-to-update-firmware-using-terminal-command",
@@ -487,8 +488,7 @@
             "/blog/testing",
             "/blog/%E3%80%90%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89%E3%80%91macos-ventura-%E3%81%AB%E9%9D%9E%E5%AF%BE%E5%BF%9C%E3%81%AE%E5%8F%A4%E3%81%84-mac-%E3%81%AB-ventura-%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9",
             "/blog/%E3%80%90%E6%9C%80%E6%96%B0%E7%89%88%E3%80%91%E6%AD%B4%E4%BB%A3-mac-os-x-macos-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A9%E3%83%BC%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC",
-            "/blog/%E5%8F%A4%E3%81%84-mac-%E3%82%92%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%95%E3%83%88%E3%80%8Ckodi%E3%80%8D%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E5%BE%A9",
-            "/blog/%E3%80%90%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%80%91web-%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E3%81%8B%E3%82%89%E7%B7%A8%E9%9B%86%E3%81%A7%E3%81%8D%E3%82%8B%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86"
+            "/blog/%E5%8F%A4%E3%81%84-mac-%E3%82%92%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%95%E3%83%88%E3%80%8Ckodi%E3%80%8D%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E5%BE%A9"
           ],
           "rootInstanceId": "JZ04szZjgAyGWWlJfj_B-",
           "meta": {
@@ -6954,7 +6954,7 @@
             "value": [
               {
                 "type": "unparsed",
-                "value": "linear-gradient(90deg,#00C5FF,#0036FF)"
+                "value": "linear-gradient(90deg,#00AEFF,#0074FF)"
               }
             ]
           }
@@ -6972,7 +6972,8 @@
               {
                 "type": "unit",
                 "unit": "%",
-                "value": 0
+                "value": 0,
+                "hidden": false
               }
             ]
           }
@@ -6990,7 +6991,8 @@
               {
                 "type": "unit",
                 "unit": "%",
-                "value": 0
+                "value": 0,
+                "hidden": false
               }
             ]
           }
@@ -7016,7 +7018,8 @@
                     "type": "keyword",
                     "value": "auto"
                   }
-                ]
+                ],
+                "hidden": false
               }
             ]
           }
@@ -7033,7 +7036,8 @@
             "value": [
               {
                 "type": "keyword",
-                "value": "repeat"
+                "value": "repeat",
+                "hidden": false
               }
             ]
           }
@@ -7050,7 +7054,8 @@
             "value": [
               {
                 "type": "keyword",
-                "value": "scroll"
+                "value": "scroll",
+                "hidden": false
               }
             ]
           }
@@ -7067,7 +7072,8 @@
             "value": [
               {
                 "type": "keyword",
-                "value": "padding-box"
+                "value": "padding-box",
+                "hidden": false
               }
             ]
           }
@@ -7084,7 +7090,8 @@
             "value": [
               {
                 "type": "keyword",
-                "value": "text"
+                "value": "text",
+                "hidden": false
               }
             ]
           }
@@ -14311,15 +14318,15 @@
       [
         "qLRSOh7rgnB8vtDo9YgKo:7hPMMapQ_YKRAmEWw_M-S:backgroundImage:",
         {
-          "styleSourceId": "qLRSOh7rgnB8vtDo9YgKo",
           "breakpointId": "7hPMMapQ_YKRAmEWw_M-S",
+          "styleSourceId": "qLRSOh7rgnB8vtDo9YgKo",
           "property": "backgroundImage",
           "value": {
             "type": "layers",
             "value": [
               {
                 "type": "unparsed",
-                "value": "linear-gradient(90deg,#00C5FF,#0036FF)"
+                "value": "linear-gradient(90deg,#00AEFF,#0074FF)"
               }
             ]
           }
@@ -38390,6 +38397,7 @@
       "title": "$ws$dataSource$A57vcUrwKocJj2m7uMEXQ.data.data.post.title && $ws$dataSource$A57vcUrwKocJj2m7uMEXQ.data.data.post.title + \" - たいくんの部屋\" || \"コンテンツが見つかりませんでした - たいくんの部屋\"",
       "history": [
         "/blog/macos-sequoia-with-oclp-bugs-and-how-to-fix",
+        "/blog/mac-markdown-editor-markedit",
         "/blog/tcl-43p8b-pros-and-cons",
         "/blog/%E9%87%8D%E8%A4%87%E3%81%97%E3%81%9F%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E5%89%8A%E9%99%A4%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%BD%E3%83%95%E3%83%88%E3%80%8Ctenorshare",
         "/blog/how-to-update-firmware-using-terminal-command",
@@ -38407,8 +38415,7 @@
         "/blog/testing",
         "/blog/%E3%80%90%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89%E3%80%91macos-ventura-%E3%81%AB%E9%9D%9E%E5%AF%BE%E5%BF%9C%E3%81%AE%E5%8F%A4%E3%81%84-mac-%E3%81%AB-ventura-%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9",
         "/blog/%E3%80%90%E6%9C%80%E6%96%B0%E7%89%88%E3%80%91%E6%AD%B4%E4%BB%A3-mac-os-x-macos-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A9%E3%83%BC%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC",
-        "/blog/%E5%8F%A4%E3%81%84-mac-%E3%82%92%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%95%E3%83%88%E3%80%8Ckodi%E3%80%8D%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E5%BE%A9",
-        "/blog/%E3%80%90%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%80%91web-%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E3%81%8B%E3%82%89%E7%B7%A8%E9%9B%86%E3%81%A7%E3%81%8D%E3%82%8B%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86"
+        "/blog/%E5%8F%A4%E3%81%84-mac-%E3%82%92%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%95%E3%83%88%E3%80%8Ckodi%E3%80%8D%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E5%BE%A9"
       ],
       "rootInstanceId": "JZ04szZjgAyGWWlJfj_B-",
       "meta": {

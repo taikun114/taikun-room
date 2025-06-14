@@ -9,7 +9,7 @@
 
       export const projectId = "dba9d753-ddf9-434f-be13-fdc5fabadb2d";
 
-      export const lastPublished = "2025-05-24T12:20:51.114Z";
+      export const lastPublished = "2025-06-14T14:15:29.276Z";
 
       export const siteName = "たいくんの部屋";
 

@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "5a22df5e-123d-4dec-aa2a-75d4931b057b",
+    "id": "d30192fa-e5c7-4fc9-89fc-32f8d183cb21",
     "projectId": "dba9d753-ddf9-434f-be13-fdc5fabadb2d",
-    "version": 4222,
-    "createdAt": "2025-06-14T14:15:29.276+00:00",
-    "updatedAt": "2025-06-14T14:15:29.276+00:00",
+    "version": 4227,
+    "createdAt": "2025-06-16T09:04:45.668+00:00",
+    "updatedAt": "2025-06-16T09:04:45.668+00:00",
     "pages": {
       "meta": {
         "siteName": "たいくんの部屋",
@@ -31682,7 +31682,7 @@
           "instanceId": "EHZ303lRkhLGZupZvCf4P",
           "name": "src",
           "type": "asset",
-          "value": "545794f9b5db556a0e5399d818670b14a27d8d06896bae25200799b04d514578"
+          "value": "9c86213e31afb8b0ca705221f4d944e00530c7ca916573a70b208dd420bf2bf4"
         }
       ],
       [
@@ -31692,7 +31692,7 @@
           "instanceId": "EHZ303lRkhLGZupZvCf4P",
           "name": "width",
           "type": "asset",
-          "value": "545794f9b5db556a0e5399d818670b14a27d8d06896bae25200799b04d514578"
+          "value": "9c86213e31afb8b0ca705221f4d944e00530c7ca916573a70b208dd420bf2bf4"
         }
       ],
       [
@@ -31702,7 +31702,7 @@
           "instanceId": "EHZ303lRkhLGZupZvCf4P",
           "name": "height",
           "type": "asset",
-          "value": "545794f9b5db556a0e5399d818670b14a27d8d06896bae25200799b04d514578"
+          "value": "9c86213e31afb8b0ca705221f4d944e00530c7ca916573a70b208dd420bf2bf4"
         }
       ],
       [
@@ -33803,6 +33803,16 @@
           "name": "data-ws-show",
           "type": "boolean",
           "value": true
+        }
+      ],
+      [
+        "ioHx9VPUUkw0WWHO1a-wd",
+        {
+          "id": "ioHx9VPUUkw0WWHO1a-wd",
+          "instanceId": "Nx8KasWf30Y_SSJZK6V7W",
+          "name": "title",
+          "type": "expression",
+          "value": "$ws$dataSource$MVynO8S0IjQpl3yMmiCEO.node.title"
         }
       ]
     ],
@@ -38543,17 +38553,17 @@
       }
     },
     {
-      "id": "545794f9b5db556a0e5399d818670b14a27d8d06896bae25200799b04d514578",
-      "name": "alex-shuper-easvYe4ixJk-unsplash_Hb9uT95xbDf09nQ4bHu22.webp",
+      "id": "9c86213e31afb8b0ca705221f4d944e00530c7ca916573a70b208dd420bf2bf4",
+      "name": "alex-shuper-easvYe4ixJk-unsplash_zQPZasAHcYDYOcNBhnIxr.webp",
       "description": null,
       "projectId": "dba9d753-ddf9-434f-be13-fdc5fabadb2d",
-      "size": 110216,
+      "size": 50136,
       "type": "image",
       "format": "webp",
-      "createdAt": "2025-05-02T08:06:37.064+00:00",
+      "createdAt": "2025-06-16T09:04:15.863+00:00",
       "meta": {
-        "width": 1920,
-        "height": 1080
+        "width": 1280,
+        "height": 720
       }
     },
     {

@@ -10,7 +10,7 @@ import { Slot as Slot, Image as Image, Fragment as Fragment_1, Box as Box, Headi
 
       export const projectId = "dba9d753-ddf9-434f-be13-fdc5fabadb2d";
 
-      export const lastPublished = "2025-06-14T14:15:29.276Z";
+      export const lastPublished = "2025-06-16T09:04:45.668Z";
 
       export const siteName = "たいくんの部屋";
 
@@ -56,9 +56,9 @@ className={`w-body`}>
 <Slot>
 <Fragment_1>
 <Image
-src={"/assets/alex-shuper-easvYe4ixJk-unsplash_Hb9uT95xbDf09nQ4bHu22.webp"}
-width={1920}
-height={1080}
+src={"/assets/alex-shuper-easvYe4ixJk-unsplash_zQPZasAHcYDYOcNBhnIxr.webp"}
+width={1280}
+height={720}
 loading={"eager"}
 className={`w-image ckw650q cu39xf9 c1ysgjff cok98yc`} />
 <Box
@@ -148,6 +148,7 @@ data-ws-tag="article"
 className={`w-box c1mo0hrg c1yz7033 ctiy6wq c9ztfc4 cvpjo14 c1ivbbvm c6cj56m cfcch3v c1h2qy8m cgzd7q6 cqs822p c1t4den9 cwlahma c1mqbasd c1rhsvz0 corpmch c1f9m8pb`}>
 <Link
 href={"/blog/" + collectionItem?.node?.slug}
+title={collectionItem?.node?.title}
 className={`w-link cu39xf9 ckw650q c14njgcc ct7i05a`}>
 <Box
 className={`w-box`}>

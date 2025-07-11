@@ -1,15 +1,15 @@
 {
   "build": {
-    "id": "d30192fa-e5c7-4fc9-89fc-32f8d183cb21",
+    "id": "7b81d222-45ee-4bf9-9b62-e8a093cc8fa9",
     "projectId": "dba9d753-ddf9-434f-be13-fdc5fabadb2d",
-    "version": 4227,
-    "createdAt": "2025-06-16T09:04:45.668+00:00",
-    "updatedAt": "2025-06-16T09:04:45.668+00:00",
+    "version": 4244,
+    "createdAt": "2025-07-11T08:36:48.244+00:00",
+    "updatedAt": "2025-07-11T08:36:48.244+00:00",
     "pages": {
       "meta": {
         "siteName": "たいくんの部屋",
         "contactEmail": "contact.taikun@gmail.com",
-        "faviconAssetId": "064df83190d2a8579707aeb2207748ed5b193d09046e142128a05c1faebe3a68",
+        "faviconAssetId": "1cfccba4e1d57112f6ebff4ea49425cd2cd3f24c46cf109489539fa801529208",
         "code": "<!-- CSS Settings -->\n<style>\n  @media (prefers-color-scheme: dark) {\n    img {\n      filter: brightness(90%);\n    }\n  }\n</style>\n\n<!-- Web Fonts -->\n<style>\n@import url('https://api.fonts.coollabs.io/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans+JP:wght@100..900&display=swap');\n</style>\n\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-K4H191M0HY\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-K4H191M0HY');\n</script>\n\n<!-- Google AdSense -->\n<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4148785556928544\"\n     crossorigin=\"anonymous\"></script>"
       },
       "compiler": {
@@ -33814,6 +33814,36 @@
           "type": "expression",
           "value": "$ws$dataSource$MVynO8S0IjQpl3yMmiCEO.node.title"
         }
+      ],
+      [
+        "MXwhlpLLLvLprDQk1sVaZ",
+        {
+          "id": "MXwhlpLLLvLprDQk1sVaZ",
+          "instanceId": "-Nd4wvvrwQbaORb662UCy",
+          "name": "fetchpriority",
+          "type": "string",
+          "value": "high"
+        }
+      ],
+      [
+        "1Ya1XhXsLWc_9WpBFufFI",
+        {
+          "id": "1Ya1XhXsLWc_9WpBFufFI",
+          "instanceId": "YcXXR4Q5RmkzPBOUIg3CB",
+          "name": "fetchpriority",
+          "type": "string",
+          "value": "high"
+        }
+      ],
+      [
+        "dUttUyA84gfoyNs1n2K0h",
+        {
+          "id": "dUttUyA84gfoyNs1n2K0h",
+          "instanceId": "oZfsHsMqfBG3jZeHJP7e9",
+          "name": "fetchpriority",
+          "type": "string",
+          "value": "high"
+        }
       ]
     ],
     "dataSources": [
@@ -38539,17 +38569,17 @@
   ],
   "assets": [
     {
-      "id": "064df83190d2a8579707aeb2207748ed5b193d09046e142128a05c1faebe3a68",
-      "name": "favicon_Fj4GqGOdPpPtcJ3rtZ_bT.png",
+      "id": "1cfccba4e1d57112f6ebff4ea49425cd2cd3f24c46cf109489539fa801529208",
+      "name": "favicon_KlZhqsaIZDngBH2QBAuUy.png",
       "description": null,
       "projectId": "dba9d753-ddf9-434f-be13-fdc5fabadb2d",
-      "size": 16161,
+      "size": 13383,
       "type": "image",
       "format": "png",
-      "createdAt": "2025-05-10T10:40:54.906+00:00",
+      "createdAt": "2025-07-11T08:34:16.987+00:00",
       "meta": {
-        "width": 460,
-        "height": 460
+        "width": 192,
+        "height": 192
       }
     },
     {

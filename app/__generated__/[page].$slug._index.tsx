@@ -11,14 +11,14 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "dba9d753-ddf9-434f-be13-fdc5fabadb2d";
 
-      export const lastPublished = "2025-06-16T09:04:45.668Z";
+      export const lastPublished = "2025-07-11T08:36:48.244Z";
 
       export const siteName = "たいくんの部屋";
 
       export const breakpoints = [{"id":"7hPMMapQ_YKRAmEWw_M-S"},{"id":"oIVfj9CW1VSGQ1nzAMQhV","maxWidth":991},{"id":"b-tdPHJg4N8hzh8wxGSqL","maxWidth":767},{"id":"sURTnOO_xRAsuAvyLcB6L","maxWidth":479}];
 
       export const favIconAsset: string | undefined =
-        "favicon_Fj4GqGOdPpPtcJ3rtZ_bT.png";
+        "favicon_KlZhqsaIZDngBH2QBAuUy.png";
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =
@@ -329,6 +329,7 @@ width={CMS?.data?.data?.page?.featuredImage?.node?.mediaDetails?.width}
 height={CMS?.data?.data?.page?.featuredImage?.node?.mediaDetails?.height}
 alt={CMS?.data?.data?.page?.featuredImage?.node?.altText}
 loading={"eager"}
+fetchPriority={"high"}
 className={`w-image ckw650q c1m5x6dt chq41zu c1v5myxa c1ysgjff c1q56g4b`} />
 }
 <Heading

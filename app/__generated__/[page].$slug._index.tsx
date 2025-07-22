@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "dba9d753-ddf9-434f-be13-fdc5fabadb2d";
 
-      export const lastPublished = "2025-07-11T08:36:48.244Z";
+      export const lastPublished = "2025-07-22T11:37:05.345Z";
 
       export const siteName = "たいくんの部屋";
 
@@ -49,7 +49,7 @@ className={`w-box ckw650q cu39xf9 cok98yc c1epj6oz cgzp0rh`} />
 <Fragment_1>
 <Box
 tag={"header"}
-className={`w-box ckw650q cqcxrw5 c1mo0hrg cok98yc c1btw7kp c1yz7033 coip4ty c16u96pk c1nrl0mm c1uczmal`}>
+className={`w-box ckw650q cqcxrw5 c1mo0hrg cok98yc c1btw7kp c1yz7033 coip4ty c16u96pk c1nrl0mm c1uczmal c6ii7i1`}>
 <Box
 className={`w-box ckw650q cu39xf9 c6g550q c16u96pk cckrrlb c1nrl0mm c227hpe c1y6b4hq c19wsaaw csezyv9`}>
 <Link

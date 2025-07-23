@@ -10,7 +10,7 @@ import { Slot as Slot, Image as Image, Fragment as Fragment_1, Box as Box, Headi
 
       export const projectId = "dba9d753-ddf9-434f-be13-fdc5fabadb2d";
 
-      export const lastPublished = "2025-07-22T11:37:05.345Z";
+      export const lastPublished = "2025-07-23T07:43:46.061Z";
 
       export const siteName = "たいくんの部屋";
 
@@ -45,7 +45,7 @@ import { Slot as Slot, Image as Image, Fragment as Fragment_1, Box as Box, Headi
             
 
             export const CustomCode = () => {
-              return (<><Style>{"\n  @media (prefers-color-scheme: dark) {\n    img {\n      filter: brightness(90%);\n    }\n  }\n"}</Style>{"\n\n"}<Style>{"\n@import url('https://api.fonts.coollabs.io/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans+JP:wght@100..900&display=swap');\n"}</Style>{"\n\n"}<Script async src={"https://www.googletagmanager.com/gtag/js?id=G-K4H191M0HY"}></Script><Script>{"\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-K4H191M0HY');\n"}</Script>{"\n\n"}<Script async src={"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4148785556928544"} crossorigin={"anonymous"}></Script></>);
+              return (<><Style>{"\n  @media (prefers-color-scheme: dark) {\n    img {\n      filter: brightness(90%);\n    }\n  }\n"}</Style>{"\n\n"}<Style>{"\n@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans+JP:wght@100..900&display=swap');\n"}</Style>{"\n\n"}<Script async src={"https://www.googletagmanager.com/gtag/js?id=G-K4H191M0HY"}></Script><Script>{"\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-K4H191M0HY');\n"}</Script>{"\n\n"}<Script async src={"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4148785556928544"} crossorigin={"anonymous"}></Script></>);
             }
           
 

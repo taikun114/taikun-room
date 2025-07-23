@@ -1,16 +1,16 @@
 {
   "build": {
-    "id": "7b688668-e720-4abe-809a-a01a87dface8",
+    "id": "7f57b3f1-004c-40e7-ab35-b60191d78d8b",
     "projectId": "dba9d753-ddf9-434f-be13-fdc5fabadb2d",
-    "version": 4245,
-    "createdAt": "2025-07-22T11:37:05.345+00:00",
-    "updatedAt": "2025-07-22T11:37:05.345+00:00",
+    "version": 4246,
+    "createdAt": "2025-07-23T07:43:46.061+00:00",
+    "updatedAt": "2025-07-23T07:43:46.061+00:00",
     "pages": {
       "meta": {
         "siteName": "たいくんの部屋",
         "contactEmail": "contact.taikun@gmail.com",
         "faviconAssetId": "1cfccba4e1d57112f6ebff4ea49425cd2cd3f24c46cf109489539fa801529208",
-        "code": "<!-- CSS Settings -->\n<style>\n  @media (prefers-color-scheme: dark) {\n    img {\n      filter: brightness(90%);\n    }\n  }\n</style>\n\n<!-- Web Fonts -->\n<style>\n@import url('https://api.fonts.coollabs.io/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans+JP:wght@100..900&display=swap');\n</style>\n\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-K4H191M0HY\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-K4H191M0HY');\n</script>\n\n<!-- Google AdSense -->\n<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4148785556928544\"\n     crossorigin=\"anonymous\"></script>"
+        "code": "<!-- CSS Settings -->\n<style>\n  @media (prefers-color-scheme: dark) {\n    img {\n      filter: brightness(90%);\n    }\n  }\n</style>\n\n<!-- Web Fonts -->\n<style>\n@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans+JP:wght@100..900&display=swap');\n</style>\n\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-K4H191M0HY\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-K4H191M0HY');\n</script>\n\n<!-- Google AdSense -->\n<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4148785556928544\"\n     crossorigin=\"anonymous\"></script>"
       },
       "compiler": {
         "atomicStyles": true

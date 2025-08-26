@@ -1,16 +1,16 @@
 {
   "build": {
-    "id": "7f57b3f1-004c-40e7-ab35-b60191d78d8b",
+    "id": "d6e64674-bd22-49f2-ba09-061773a1fd2e",
     "projectId": "dba9d753-ddf9-434f-be13-fdc5fabadb2d",
-    "version": 4246,
-    "createdAt": "2025-07-23T07:43:46.061+00:00",
-    "updatedAt": "2025-07-23T07:43:46.061+00:00",
+    "version": 4256,
+    "createdAt": "2025-08-26T11:56:07.029+00:00",
+    "updatedAt": "2025-08-26T11:56:07.029+00:00",
     "pages": {
       "meta": {
         "siteName": "たいくんの部屋",
         "contactEmail": "contact.taikun@gmail.com",
         "faviconAssetId": "1cfccba4e1d57112f6ebff4ea49425cd2cd3f24c46cf109489539fa801529208",
-        "code": "<!-- CSS Settings -->\n<style>\n  @media (prefers-color-scheme: dark) {\n    img {\n      filter: brightness(90%);\n    }\n  }\n</style>\n\n<!-- Web Fonts -->\n<style>\n@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans+JP:wght@100..900&display=swap');\n</style>\n\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-K4H191M0HY\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-K4H191M0HY');\n</script>\n\n<!-- Google AdSense -->\n<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4148785556928544\"\n     crossorigin=\"anonymous\"></script>"
+        "code": "<!-- CSS Settings -->\n<style>\n  @media (prefers-color-scheme: dark) {\n    img {\n      filter: brightness(90%);\n    }\n  }\n</style>\n\n<!-- Web Fonts -->\n<style>\n@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans+JP:wght@100..900&display=swap');\n</style>\n\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-K4H191M0HY\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-K4H191M0HY');\n</script>\n\n<!-- Google AdSense -->\n<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4148785556928544\"\n     crossorigin=\"anonymous\"></script>\n\n<!-- Umami -->\n<script defer src=\"https://umami.taikun.blog/script.js\" data-website-id=\"476ec6fa-4fdc-4711-afff-e403e5c5e57c\"></script>"
       },
       "compiler": {
         "atomicStyles": true
@@ -38584,7 +38584,6 @@
     {
       "id": "1cfccba4e1d57112f6ebff4ea49425cd2cd3f24c46cf109489539fa801529208",
       "name": "favicon_KlZhqsaIZDngBH2QBAuUy.png",
-      "description": null,
       "projectId": "dba9d753-ddf9-434f-be13-fdc5fabadb2d",
       "size": 13383,
       "type": "image",
@@ -38598,7 +38597,6 @@
     {
       "id": "9c86213e31afb8b0ca705221f4d944e00530c7ca916573a70b208dd420bf2bf4",
       "name": "alex-shuper-easvYe4ixJk-unsplash_zQPZasAHcYDYOcNBhnIxr.webp",
-      "description": null,
       "projectId": "dba9d753-ddf9-434f-be13-fdc5fabadb2d",
       "size": 50136,
       "type": "image",
@@ -38612,7 +38610,6 @@
     {
       "id": "9ca77f72f7df0590612567dbbcdf27ba6d7975088aa23107604dce4ba93c20be",
       "name": "taikun-room-full_SXGNYnXHAdTh7JkRN0ZcG.png",
-      "description": null,
       "projectId": "dba9d753-ddf9-434f-be13-fdc5fabadb2d",
       "size": 58629,
       "type": "image",
@@ -38626,7 +38623,6 @@
     {
       "id": "bd9eec3b023232e64d72d118804d1b0c072e6aa931f4cf8c0672014d3cb41854",
       "name": "たいくんの部屋_y4DuvHgGW4pKp1I6USTOP.webp",
-      "description": null,
       "projectId": "dba9d753-ddf9-434f-be13-fdc5fabadb2d",
       "size": 9656,
       "type": "image",

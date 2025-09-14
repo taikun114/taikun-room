@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "dba9d753-ddf9-434f-be13-fdc5fabadb2d";
 
-      export const lastPublished = "2025-08-26T11:56:07.029Z";
+      export const lastPublished = "2025-09-13T14:57:29.896Z";
 
       export const siteName = "たいくんの部屋";
 
@@ -40,6 +40,7 @@ src={"/assets/alex-shuper-easvYe4ixJk-unsplash_zQPZasAHcYDYOcNBhnIxr.webp"}
 width={1280}
 height={720}
 loading={"eager"}
+fetchPriority={"high"}
 className={`w-image ckw650q cu39xf9 c1ysgjff cok98yc`} />
 <Box
 className={`w-box ckw650q cu39xf9 cok98yc c1epj6oz cgzp0rh`} />
@@ -184,6 +185,20 @@ className={`w-paragraph c1do09oa c1ho1hsm ce9x8e9 cinzvyd cmendya cemtmji crxmid
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link
+href={"https://www.taikun.blog/"}
+className={`w-link c1qkahay c16u96pk clb7ee7 cglz829 c1q0k3t c1n9pjck ce53kt7 c14njgcc c11v1l1o c1sy5cbg ctibe6j cq98dcv c1nljn1v c1hjchh6 cgt0251 cd4zzh3 cmz7znk c14wiecr c66urc5 c1innfc3 c1ub9bfr clnhelo c1ngekbc`}>
+<Text
+className={`w-text cemtmji c3rd0z1 ce53kt7 c9ll3mf`}>
+{"たいくんの日記"}
+</Text>
+<Paragraph
+className={`w-paragraph c1do09oa c1ho1hsm ce9x8e9 cinzvyd cmendya cemtmji crxmidb clupbgi c1hzvtru`}>
+{"ジャンルを問わない気軽で様々な情報についてはこちら"}
+</Paragraph>
+</Link>
+</NavigationMenuLink>
+<NavigationMenuLink>
+<Link
 href={"https://shop.taikun.design/"}
 className={`w-link c1qkahay c16u96pk clb7ee7 cglz829 c1q0k3t c1n9pjck ce53kt7 c14njgcc c11v1l1o c1sy5cbg ctibe6j cq98dcv c1nljn1v c1hjchh6 cgt0251 cd4zzh3 cmz7znk c14wiecr c66urc5 c1innfc3 c1ub9bfr clnhelo c1ngekbc`}>
 <Text
@@ -285,6 +300,20 @@ className={`w-text cemtmji c3rd0z1 ce53kt7 c9ll3mf`}>
 <Paragraph
 className={`w-paragraph c1do09oa c1ho1hsm ce9x8e9 cinzvyd cmendya cemtmji crxmidb clupbgi c1hzvtru`}>
 {"スマートホームや生活などについての情報はこちら"}
+</Paragraph>
+</Link>
+</NavigationMenuLink>
+<NavigationMenuLink>
+<Link
+href={"https://www.taikun.blog/"}
+className={`w-link c1qkahay c16u96pk clb7ee7 cglz829 c1q0k3t c1n9pjck ce53kt7 c14njgcc c11v1l1o c1sy5cbg ctibe6j cq98dcv c1nljn1v c1hjchh6 cgt0251 cd4zzh3 cmz7znk c14wiecr c66urc5 c1innfc3 c1ub9bfr clnhelo c1ngekbc`}>
+<Text
+className={`w-text cemtmji c3rd0z1 ce53kt7 c9ll3mf`}>
+{"たいくんの日記"}
+</Text>
+<Paragraph
+className={`w-paragraph c1do09oa c1ho1hsm ce9x8e9 cinzvyd cmendya cemtmji crxmidb clupbgi c1hzvtru`}>
+{"ジャンルを問わない気軽で様々な情報についてはこちら"}
 </Paragraph>
 </Link>
 </NavigationMenuLink>

@@ -10,7 +10,7 @@ import { Slot as Slot, Image as Image, Fragment as Fragment_1, Box as Box, Headi
 
       export const projectId = "dba9d753-ddf9-434f-be13-fdc5fabadb2d";
 
-      export const lastPublished = "2025-08-26T11:56:07.029Z";
+      export const lastPublished = "2025-09-13T14:57:29.896Z";
 
       export const siteName = "たいくんの部屋";
 
@@ -60,6 +60,7 @@ src={"/assets/alex-shuper-easvYe4ixJk-unsplash_zQPZasAHcYDYOcNBhnIxr.webp"}
 width={1280}
 height={720}
 loading={"eager"}
+fetchPriority={"high"}
 className={`w-image ckw650q cu39xf9 c1ysgjff cok98yc`} />
 <Box
 className={`w-box ckw650q cu39xf9 cok98yc c1epj6oz cgzp0rh`} />
@@ -72,14 +73,14 @@ className={`w-box ckw650q c6g550q c16u96pk c1nrl0mm cv98wn5 clb7ee7 c1y3dgs3 cvc
 <Link
 href={"/"}
 className={`w-link ckw650q c30d1di`}>
-<Image
-src={"/assets/taikun-room-full_SXGNYnXHAdTh7JkRN0ZcG.png"}
-width={1200}
-height={129}
-loading={"eager"}
-alt={"TAIKUN Room.com | たいくんの部屋"}
-fetchPriority={"high"}
-className={`w-image`} />
+<HtmlEmbed
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/09/taikun-room-full-white.png\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/09/taikun-room-full-color.png\"\n    alt=\"TAIKUN Room.com | たいくんの部屋\"\n  />\n</picture>\n"}
+className={`w-html-embed c16p25t2 c7eghgj ctih64x chbry8m cja75uj ce221rl ctoyum4`}>
+</HtmlEmbed>
+<HtmlEmbed
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/09/taikun-room-full-mini-white.png\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/09/taikun-room-full-mini.png\"\n    alt=\"TAIKUN Room.com\"\n  />\n</picture>\n"}
+className={`w-html-embed ct1d4d7 c1hhyiz1 c7eghgj ctih64x chbry8m cja75uj ce221rl cycm8hx`}>
+</HtmlEmbed>
 </Link>
 <Box
 data-ws-tag="header"
@@ -112,6 +113,11 @@ className={`w-link c14njgcc c9ll3mf cxhsvi csiqldl cywehne c1w3kw24 ckfbvdv cnny
 href={"https://www.taikun-life.com/"}
 className={`w-link c14njgcc c9ll3mf cxhsvi csiqldl cywehne c1w3kw24 ckfbvdv cnny46r c1x20bz7 c1kiu74r cu0zbn6 cgzd7q6 cqs822p c1t4den9 cwlahma c1bk6428 c1innfc3 ci10kzm clnhelo`}>
 {"たいくんの生活"}
+</Link>
+<Link
+href={"https://www.taikun.blog/"}
+className={`w-link c14njgcc c9ll3mf cxhsvi csiqldl cywehne c1w3kw24 ckfbvdv cnny46r c1x20bz7 c1kiu74r cu0zbn6 cgzd7q6 cqs822p c1t4den9 cwlahma c1bk6428 c1innfc3 c1vj1evy clnhelo`}>
+{"たいくんの日記"}
 </Link>
 <Link
 href={"https://shop.taikun.design/"}

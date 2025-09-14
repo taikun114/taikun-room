@@ -10,7 +10,7 @@ import { Body as Body, Link as Link } from "@webstudio-is/sdk-components-react-r
 
       export const projectId = "dba9d753-ddf9-434f-be13-fdc5fabadb2d";
 
-      export const lastPublished = "2025-08-26T11:56:07.029Z";
+      export const lastPublished = "2025-09-13T14:57:29.896Z";
 
       export const siteName = "たいくんの部屋";
 
@@ -38,6 +38,7 @@ src={"/assets/alex-shuper-easvYe4ixJk-unsplash_zQPZasAHcYDYOcNBhnIxr.webp"}
 width={1280}
 height={720}
 loading={"eager"}
+fetchPriority={"high"}
 className={`w-image ckw650q cu39xf9 c1ysgjff cok98yc`} />
 <Box
 className={`w-box ckw650q cu39xf9 cok98yc c1epj6oz cgzp0rh`} />
@@ -50,13 +51,14 @@ className={`w-box ckw650q c6g550q c16u96pk c1nrl0mm cv98wn5 clb7ee7 c1y3dgs3 cvc
 <Link
 href={"/"}
 className={`w-link ckw650q c30d1di`}>
-<Image
-src={"/assets/taikun-room-full_SXGNYnXHAdTh7JkRN0ZcG.png"}
-width={1200}
-height={129}
-alt={"TAIKUN Room.com | たいくんの部屋"}
-loading={"eager"}
-className={`w-image`} />
+<HtmlEmbed
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/09/taikun-room-full-white.png\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/09/taikun-room-full-color.png\"\n    alt=\"TAIKUN Room.com | たいくんの部屋\"\n  />\n</picture>\n"}
+className={`w-html-embed c16p25t2 c7eghgj ctih64x chbry8m cja75uj ce221rl ctoyum4`}>
+</HtmlEmbed>
+<HtmlEmbed
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/09/taikun-room-full-mini-white.png\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/09/taikun-room-full-mini.png\"\n    alt=\"TAIKUN Room.com\"\n  />\n</picture>\n"}
+className={`w-html-embed ct1d4d7 c1hhyiz1 c7eghgj ctih64x chbry8m cja75uj ce221rl cycm8hx`}>
+</HtmlEmbed>
 </Link>
 <Box
 data-ws-tag="main"

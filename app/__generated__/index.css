@@ -1264,6 +1264,27 @@
   .cpbvj9u {
     aspect-ratio: calc(16 / 9)
   }
+  .c7eghgj img {
+    width: calc(100% - 2rem)
+  }
+  .chbry8m img {
+    margin-left: 1rem
+  }
+  .cja75uj img {
+    margin-right: 1rem
+  }
+  .ce221rl img {
+    margin-bottom: 0
+  }
+  .ctoyum4 img {
+    margin-top: 0
+  }
+  .cycm8hx img {
+    margin-top: 1rem
+  }
+  .c1vj1evy:hover {
+    color: rgba(150, 112, 225, 1)
+  }
 }
 @media all and (max-width: 991px) {
   .corpmch {

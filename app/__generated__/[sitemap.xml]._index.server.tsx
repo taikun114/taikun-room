@@ -6,9 +6,10 @@
       import type { System, ResourceRequest } from "@webstudio-is/sdk";
 export const getResources = (_props: { system: System }) => {
   const __2: ResourceRequest = {
-    id: "vYJ4bogT-GNkqBKdtLRa5",
     name: "ブログ記事",
     url: "https://room.taikun.blog/graphql",
+    searchParams: [
+    ],
     method: "post",
     headers: [
       { name: "Content-Type", value: "application/json" },
@@ -19,9 +20,10 @@ export const getResources = (_props: { system: System }) => {
 },
   }
   const __3: ResourceRequest = {
-    id: "ZsZHMa81UqSlOJjgGojRL",
     name: "ブログページ",
     url: "https://room.taikun.blog/graphql",
+    searchParams: [
+    ],
     method: "post",
     headers: [
       { name: "Content-Type", value: "application/json" },

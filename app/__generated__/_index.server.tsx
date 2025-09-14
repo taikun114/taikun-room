@@ -8,9 +8,10 @@ export const getResources = (_props: { system: System }) => {
   const system = _props.system
   let itemsPerPage = 12
   const __1: ResourceRequest = {
-    id: "aNoJXfl7ssrEO3XvrdSOD",
     name: "ブログ記事",
     url: "https://room.taikun.blog/graphql",
+    searchParams: [
+    ],
     method: "post",
     headers: [
       { name: "Content-Type", value: "application/json" },

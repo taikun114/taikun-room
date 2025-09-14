@@ -7,9 +7,10 @@
 export const getResources = (_props: { system: System }) => {
   const system = _props.system
   const CMS_1: ResourceRequest = {
-    id: "7_BMvzBuCjNdu4HWh7Hrb",
     name: "CMSデータ",
     url: "https://room.taikun.blog/graphql",
+    searchParams: [
+    ],
     method: "post",
     headers: [
       { name: "Content-Type", value: "application/json" },
